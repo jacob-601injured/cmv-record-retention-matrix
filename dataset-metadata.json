@@ -2,7 +2,7 @@
   "title": "Federal Trucking Record Retention Guide",
   "subtitle": "ELD, driver, accident, maintenance, DVIR, and inspection periods",
   "description": "An attorney-edited matrix of selected federal minimum retention periods for commercial-motor-vehicle records, with direct eCFR sources, applicability cautions, and litigation-preservation notes. A regulatory retention period is not a safe waiting period and does not cover every video, telematics, communication, or electronic artifact. Verify current law and case-specific facts. Maintained by Jones Law P.A. / Jones Law Group in Jackson, Mississippi.\n\nGitHub: https://github.com/jacob-601injured/cmv-record-retention-matrix",
-  "id": "jacob601injured/cmv-record-retention-matrix",
+  "id": "jacob601injured/federal-trucking-record-retention-guide",
   "licenses": [
     {
       "name": "CC-BY-4.0"

@@ -41,6 +41,10 @@ This draft is not a complete FMCSR retention schedule. It does not yet map every
 
 Jones Law P.A. / Jones Law Group, Jackson, Mississippi. Attorney editor: Baskin L. Jones, Esq., MS Bar No. 103589. Last source check: September 11, 2026. General educational information only; not legal advice, not a complete retention schedule, and not an instruction to rely on the listed period in a particular matter.
 
+## Also on Kaggle
+
+[Federal Trucking Record Retention Guide](https://www.kaggle.com/datasets/jacob601injured/federal-trucking-record-retention-guide)
+
 ## License
 
 Original annotations are licensed under [CC BY 4.0](LICENSE).
